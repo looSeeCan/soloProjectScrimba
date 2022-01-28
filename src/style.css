@@ -1,0 +1,68 @@
+/* html, body {
+    margin: 0 auto;
+} */
+
+
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    /* color: red; */
+    align-items: center;
+    width: 400px;
+}
+
+img {
+    /* position: absolute; */
+    width: 300px;
+    height: 300px;
+}
+
+h1 {
+    width: 125px;
+    /* color: red; */
+    margin-left: 80px;
+}
+
+h3 {
+    width: 125px;
+    margin-left: 94px;
+    margin-top: -25px;
+}
+
+button {
+    /* color: red; */
+    width: 130px; 
+    margin-left: 15px ;
+}
+
+.buttondiv--linked {
+    /* color: red; */
+    margin-left: 5px;
+}
+
+.about--div > h4 {
+    /* color: red; */
+    width: 45px;
+    margin-left: 15px;
+}
+
+.about--div > p {
+    /* color: red; */
+    margin-left: 15px;
+    width: 280px;
+}
+
+footer {
+    /* color: red; */
+    
+    width: 300px;
+    height: 80px;
+}
+
+footer > img {
+    /* color: red; */
+    width: 50px;
+    height: 50px;
+}
